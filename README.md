@@ -7,7 +7,7 @@
 
 ## General info
 Essa é uma aplicação que se baseia  eCommerce real, com autenticação usuários, login, adição, edição e remoção de produtos pelo painel admin, apenas para usuários autorizados. Conta também com pagamento integrado ao PayPal Sandbox que simula uma forma de pagamento real no checkout. 
-Além do React, essa aplicação também conta com API própria, backend integrado ao MongoDB, NodeJS, Express, bcryptjs, multer(upload de arquivos), JsonWebtoken(hash passwords), React-Bootstrap, React-Paypal-button, React-Redux, React-router-bootstrap e Bootswatch(interfaces p/ boostrap) 
+Além do React, essa aplicação também conta com API própria, backend integrado ao MongoDB, NodeJS, Express, bcryptjs, multer(upload de arquivos), JsonWebtoken(hash passwords), React-Bootstrap, React-Paypal-button, React-Redux, React-router-bootstrap e Bootswatch(interfaces p/ Bootstrap) 
 	
 ## Technologies
 Esse projeto contém as seguintes tecnologias:
